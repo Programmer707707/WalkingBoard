@@ -1,4 +1,4 @@
-### WalkingBoard Java Project
+## WalkingBoard Java Project
 ## Project Overview
 The WalkingBoard class represents a board with a figure standing on a position (x, y). Each position on the board has an associated value. The board can be initialized in two ways: with a fixed size or with given dimensions and initial values, including the ability for non-uniform rows.
 
